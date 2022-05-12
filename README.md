@@ -27,7 +27,7 @@ Don't forget to check my portfolio 👉 [**Riangle**](https://github.com/luangjo
 
 [![preview](https://i.imgur.com/YgvqZ4F.png)](https://maimun.club/)
 
-Join the [**Maimun Ape Social Club**] community.
+Join the [**Maimun Ape Social Club**](https://maimun.club/) community.
 
 ---
 
