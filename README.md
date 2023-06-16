@@ -23,14 +23,6 @@ Don't forget to check my portfolio 👉 [**Riangle**](https://github.com/luangjo
 
 ---
 
-**Let's build the future of Web3 together 👇**
-
-[![preview](https://i.imgur.com/YgvqZ4F.png)](https://maimun.club/)
-
-Join the [**Maimun Ape Social Club**](https://maimun.club/) community.
-
----
-
 [![twitter](https://img.shields.io/twitter/follow/luangjokaj?style=social)](https://twitter.com/LuanGjokaj)  
 [![github](https://img.shields.io/github/followers/luangjokaj?style=social)](https://github.com/luangjokaj)
 
