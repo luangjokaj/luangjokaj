@@ -15,7 +15,7 @@ My name is Luan, currently living and working in 🇨🇭 Switzerland. I'm a UX 
 - 🍒 [**Cherry**](https://cherry.design/) - A design system to build the web.
 - 🎈 [**WordPressify**](https://www.wordpressify.co/) - Automate your WordPress development workflow.
 
-- And [more...](https://github.com/luangjokaj)
+And [more...](https://github.com/luangjokaj)
 
 [**Riangle**](https://www.riangle.com)
 
