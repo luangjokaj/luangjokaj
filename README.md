@@ -17,7 +17,7 @@ My name is Luan, currently living and working in 🇨🇭 Switzerland. I'm a UX 
 
 And [more...](https://github.com/luangjokaj)
 
-[**Riangle**](https://www.riangle.com)
+Let's work together 👉 [**Riangle**](https://www.riangle.com)
 
 ---
 
