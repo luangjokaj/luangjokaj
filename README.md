@@ -19,6 +19,8 @@ And [more...](https://github.com/luangjokaj)
 
 Let's work together 👉 [**Riangle**](https://www.riangle.com)
 
+PS: I use VIM by the way.
+
 ---
 
 [![twitter](https://img.shields.io/twitter/follow/luangjokaj?style=social)](https://twitter.com/LuanGjokaj)  
@@ -27,4 +29,3 @@ Let's work together 👉 [**Riangle**](https://www.riangle.com)
 ---
 
 [![riangle](assets/logo.svg)](https://www.riangle.com)
-
