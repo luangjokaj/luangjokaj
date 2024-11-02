@@ -7,9 +7,9 @@
 
 Hi there 👋
 
-My name is Luan, currently living and working in 🇨🇭 Switzerland. I'm a UX Engineer & Designer. Obsessed with visual goodness, details and minimal forms. Bridging the gap between design and code.
+My name is Luan. I'm a UX Engineer & Designer. Obsessed with visual goodness, details and minimal forms. Bridging the gap between design and code.
 
-🚀 Some of my main open-source projects:
+🚀 Some of my open-source projects:
 
 - 🍒 [**Cherry**](https://cherry.design/) - A design system to build the web.
 - 🎈 [**WordPressify**](https://www.wordpressify.co/) - Automate your WordPress development workflow.
