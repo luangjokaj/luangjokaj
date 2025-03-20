@@ -11,7 +11,7 @@ My name is Luan. I'm a UX Engineer & Designer. Obsessed with visual goodness, de
 
 🚀 Some of my open-source projects:
 
-- 🍒 [**Cherry**](https://cherry.design/) - A design system to build the web.
+- 🍒 [**Cherry**](https://cherry.al/) - A design system to build the web.
 - 🎈 [**WordPressify**](https://www.wordpressify.co/) - Automate your WordPress development workflow.
 
 And [more...](https://github.com/luangjokaj)
