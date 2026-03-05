@@ -11,6 +11,7 @@ My name is Luan. I'm a UX Engineer & Designer. Obsessed with visual goodness, de
 
 🚀 Some of my open-source projects:
 
+- 📖 [**Doccupine**](https://docs.doccupine.com) - Generate beautiful documentation websites. AI-ready.
 - 🍒 [**Cherry**](https://cherry.al/) - A design system to build the web.
 - 🎈 [**WordPressify**](https://www.wordpressify.co/) - Automate your WordPress development workflow.
 
